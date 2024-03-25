@@ -1,6 +1,6 @@
 {
-  "name": "@dawoodcyber/number_guessing_game",
-  "version": "1.0.0",
+  "name": "number_guessing_game_dawoodcyber",
+  "version": "2.0.0",
   "description": "Number Guessing Game",
   "main": "index.js",
   "type": "module",
